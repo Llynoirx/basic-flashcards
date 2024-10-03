@@ -2,7 +2,7 @@
 
 Submitted by: Kathy Ho
 
-This web app: **insert description**
+This web app: **Helps you study the Bill of Rights (1st 10 amendments)**
 
 Time spent: **3** hours spent in total
 
@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![](https://github.com/Llynoirx/web102-flashcards/blob/main/public/web102-proj2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
