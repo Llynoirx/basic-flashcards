@@ -38,7 +38,7 @@ const App = () => {
 
       <div className="card-container">
         <div className="card">
-          <div className="question">{Q}</div>
+        <div className="question"><strong>{Q}</strong></div>
           {showAnswer && <div className="answer">{A}</div>}
         </div>
       </div>
