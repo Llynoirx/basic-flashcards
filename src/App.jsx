@@ -38,9 +38,11 @@ const App = () => {
       <h3>Do you remember the first 10 amendments?</h3>
       <h4>Number of cards: 10</h4>
 
-      <div className="card">
-      <div className="question">{Q}</div>
-        {showAnswer && <div className="answer">{A}</div>}
+      <div className="card-container">
+        <div className="card">
+          <div className="question">{Q}</div>
+          {showAnswer && <div className="answer">{A}</div>}
+        </div>
       </div>
 
       <div className="navigation">
