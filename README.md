@@ -1,20 +1,20 @@
-# Web Development Project 2 - *Name of App Here*
+# Web Development Project 2 - *Bill of Rights Flashcards*
 
-Submitted by: **Your Name Here**
+Submitted by: Kathy Ho
 
 This web app: **insert description**
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
-- [ ] **A single card at a time is displayed, only showing one of the components of the information pair**
-- [ ] **A list of card pairs is created**
-- [ ] **Clicking on the card shows the corresponding component of the information pair**
-- [ ] **Clicking the next button displays a random new card**
+- [ x] **The title of the card set and some information about it, such as a short description and the total number of cards are displayed**
+- [x ] **A single card at a time is displayed, only showing one of the components of the information pair**
+- [x ] **A list of card pairs is created**
+- [x ] **Clicking on the card shows the corresponding component of the information pair**
+- [x ] **Clicking the next button displays a random new card**
 
 The following **optional** features are implemented:
 
@@ -33,7 +33,8 @@ Here's a walkthrough of implemented required features:
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+GIF created with 
+ AwesomeScreenshot and EzGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -42,10 +43,11 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
+N/A
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2024 Kathy Ho
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
