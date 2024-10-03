@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/Llynoirx/web102-flashcards/blob/main/public/web102-proj2.gif)
+![](https://github.com/Llynoirx/web102-flashcards/blob/main/web102-proj2.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with 
