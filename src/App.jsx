@@ -39,7 +39,13 @@ const App = () => {
       <h4>Number of cards: 10</h4>
 
       <div className="card">
-        Card
+      <div className="question">{Q}</div>
+        {showAnswer && <div className="answer">{A}</div>}
+      </div>
+
+      <div className="navigation">
+        <button onClick={showCard}>Next Card</button>
+        <button onClick={toggleAnswer}>{showAnswer ? "Hide Answer" : "Show Answer"}</button>
       </div>
     </div>
   )
